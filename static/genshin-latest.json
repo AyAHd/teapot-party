@@ -1,0 +1,314 @@
+[
+  {
+    "id": 10000059,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000065,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000060,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000066,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000002,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000003,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000005,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000006,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000007,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000014,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000015,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000016,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000020,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000021,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000022,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000023,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000024,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000025,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000026,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000027,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000029,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000030,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000031,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000032,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000033,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000034,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000035,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000036,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000037,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000038,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000039,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000041,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000042,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000043,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000044,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000045,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000046,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000047,
+    "weaponType": "WEAPON_SWORD_ONE_HAND",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000048,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000049,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000050,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000051,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000052,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000053,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000054,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000055,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000056,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png",
+    "quality": "QUALITY_PURPLE"
+  },
+  {
+    "id": 10000057,
+    "weaponType": "WEAPON_CLAYMORE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000058,
+    "weaponType": "WEAPON_CATALYST",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000062,
+    "weaponType": "WEAPON_BOW",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Aloy.png",
+    "quality": "QUALITY_ORANGE_SP"
+  },
+  {
+    "id": 10000063,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png",
+    "quality": "QUALITY_ORANGE"
+  },
+  {
+    "id": 10000064,
+    "weaponType": "WEAPON_POLE",
+    "img": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "quality": "QUALITY_PURPLE"
+  }
+]
