@@ -2,7 +2,7 @@
 <b>🍵 Teapot party</b> is a SPA (+Data) used in Genshin Impact to randomize team creation.
 
 
-## [🍵 Teapot party](http://ayahd.github.io/teapot-party)
+## [🍵 Teapot party](http://ayahd.github.io/genshin/teapot-party)
 <details>
     <summary>
         <h3>🚧 Changelog</h3>
